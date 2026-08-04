@@ -1,0 +1,6 @@
+{
+  "name": "Plinko Estadístico",
+  "description": "Simulador interactivo de Plinko para la enseñanza de Estadística Descriptiva con análisis estadístico completo, gráficos y exportación en PDF/Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
