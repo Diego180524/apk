@@ -1,0 +1,6 @@
+{
+  "name": "El Gran Casino Estadístico",
+  "description": "Simulador interactivo de casino y Plinko educativo para el aprendizaje de Estadística Descriptiva, distribución binomial, análisis automático y exportación.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
