@@ -1,0 +1,6 @@
+{
+  "name": "Guayaquil: Misión de Datos",
+  "description": "Juego interactivo de exploración en Guayaquil para descubrir la estadística descriptiva.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
